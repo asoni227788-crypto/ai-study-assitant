@@ -1,0 +1,64 @@
+[
+  {
+    "id": "0a128157",
+    "timestamp": "2026-04-04T13:14:37.711615",
+    "input_mode": "Image",
+    "image_name": "WhatsApp Image 2026-03-09 at 14.29.19 (1).jpeg",
+    "summary_length": "Medium",
+    "num_questions": 5,
+    "topic": "Computer Networking Foundations and Physical Layer",
+    "difficulty": "Medium",
+    "ocr_text": "Read Only - Save a copy to edit.\n\n## Unit I\n\nIntroduction to Computer Networks: Definition: Network, The Need of Resources Sharing, data communications components, data representation, and data flow, network topologies, categories of networks, organizations that set standards in data communications and networking introduction to Open Systems Interconnection (OSI) and the Internet model (TCP/IP) layers and services.\n\n## Unit II\n\nThe Physical Layer & Media: Functions of physical layer, issues related to the physical layer and the transmission medium that is controlled by the physical layer, Bandwidth Utilization: Multiplexing and Spreading, Transmission Media, Switching.\n\n## Unit III",
+    "result": {
+      "summary": "These notes provide a foundational introduction to computer networks, focusing on the essential need for resource sharing and data communication components. The material covers structural elements such as network topologies and categories, as well as the governance provided by standards organizations. Key architectural frameworks are introduced, specifically the OSI and TCP/IP models, which define layered services. Additionally, the text details the Physical Layer's functions, including transmission media and bandwidth utilization techniques like multiplexing and spreading. Finally, the role of switching in directing data through physical infrastructure is highlighted.",
+      "keywords": [
+        "Computer Networks",
+        "Resource Sharing",
+        "Network Topologies",
+        "OSI Model",
+        "TCP/IP Model",
+        "Physical Layer",
+        "Transmission Media",
+        "Multiplexing",
+        "Switching",
+        "Data Communication",
+        "Bandwidth Utilization",
+        "Standards Organizations"
+      ],
+      "questions": [
+        "How does the OSI model differ from the TCP/IP model in terms of layer structure and services?",
+        "What are the primary factors that determine the choice of a specific network topology for an organization?",
+        "In what ways does the Physical Layer handle the conversion of data into signals for transmission media?",
+        "What is the significance of multiplexing in maximizing the efficiency of network bandwidth?",
+        "How do switching mechanisms facilitate data movement across complex network infrastructures?"
+      ],
+      "topic": "Computer Networking Foundations and Physical Layer",
+      "difficulty": "Medium",
+      "key_concepts": [
+        {
+          "concept": "Network Topology",
+          "definition": "The physical or logical layout of a network, defining how different nodes and links are connected to one another."
+        },
+        {
+          "concept": "OSI Model",
+          "definition": "A seven-layer architectural framework used to standardize telecommunications and networking functions."
+        },
+        {
+          "concept": "Physical Layer",
+          "definition": "The first layer of the OSI model, responsible for the actual transmission of raw bits over a physical communication medium."
+        },
+        {
+          "concept": "Multiplexing",
+          "definition": "A method used to combine multiple data signals into one signal for transmission over a shared medium to utilize bandwidth efficiently."
+        },
+        {
+          "concept": "Switching",
+          "definition": "The process of forwarding data packets from one network segment to another to ensure they reach their intended destination."
+        }
+      ],
+      "mnemonics": [
+        "Please Do Not Throw Sausage Pizza Away (Physical, Data Link, Network, Transport, Session, Presentation, Application layers of the OSI model)."
+      ]
+    }
+  }
+]
